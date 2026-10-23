@@ -1,0 +1,14 @@
+{
+  "build_script": "tsc --noEmit && vite build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "SamadiPour/snack-hole-game",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "b4230e4a6064299bb18240d8de39b2982c084794"
+}
